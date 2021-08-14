@@ -6,46 +6,89 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   
+
+  <link rel="stylesheet" href="style.css">
   <title>Frontend Mentor | [Chat App Illustration Master]</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+    footer { font-size: 11px; text-align: center;
+    display: none; }
+    footer a { color: hsl(228, 45%, 44%); }
   </style>
 </head>
 <body>
 
-  Samuel Green
-  Available to Walk
+    <figure>
+      <div class="screen">
 
-  That sounds great. I’d be happy with that.
+        <div class="top-screen">
+          <div class="notch"></div>
+            <div class="profile">
+              <img src="./images/back.svg" alt="back" class="back">
+              <img src="./images/avatar.jpg" class="avatar" alt="profile pict" style="border-radius: 15px; border: 1px solid white; margin-left: 10px;">
+              <p>Samuel Green<br> <span class="status">Available to Walk</span></p>
+              <img src="./images/more.svg" alt="more" class="more" style="margin-left: 40px;">
+            </div>
+        </div>
 
-  Could you send over some pictures of your dog, please?
+        <div class="interlocutors side-spacing">
+          <p>That sounds great. I’d be happy with that.</p>
+        </div>
 
-  Here are a few pictures. She’s a happy girl!
+        <div class="interlocutors side-spacing">
+          <p>Could you send over some pictures of your dog, please?</p>
+        </div>
 
-  Can you make it?
+        <div class="sender-img">
+          <img src="./images/dog-image-1.jpg" alt="dog 1">
+          <img src="./images/dog-image-2.jpg" alt="dog 2">
+          <img src="./images/dog-image-3.jpg" alt="dog 3">
+        </div>
 
-  She looks so happy! The time we discussed works. How long shall I take her out for?
+        <div class="sender">
+          <p>Here are a few pictures. She’s a happy girl!</p>
+        </div>
 
-  30 minute walk
-  $29
+        <div class="sender spacing">
+          <p>Can you make it?</p>
+        </div>
 
-  1 hour walk
-  $49
+        <div class="interlocutors side-spacing">
+          <p>She looks so happy! The time we discussed works. How long shall I take her out for?</p>
+        </div>
 
-  Type a message…
+        <div class="price-bubble side-spacing">
+          <p>30 minute walk</p>
+          <p style="text-align: end; font-weight: 500;">$29</p>
+        </div>
 
-  Simple booking
+        <div class="price-bubble side-spacing">
+          <p>1 hour walk</p>
+          <p style="text-align: end; font-weight: 500;">$49</p>
+        </div>
 
-  Stay in touch with our dog walkers through the chat interface. This makes it easy to 
-  discuss arrangements and make bookings. Once the walk has been completed you can rate 
-  your walker and book again all through the chat.
+        <div class="message-box side-spacing">
+          <p>Type a message…</p>
+          <img src="./images/enter.svg" alt="enter">
+        </div>
+
+
+      </div>
+    </figure>
+
+
+  <section>
+    <h1> Simple booking</h1>
+
+    <p>Stay in touch with our dog walkers through the chat interface. This makes it easy to 
+    discuss arrangements and make bookings. Once the walk has been completed you can rate 
+    your walker and book again all through the chat.</p>
+  </section>
   
-  <div class="attribution">
+  <footer>
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
     Coded by <a href="#">Arbase</a>.
-  </div>
+  </footer>
 </body>
 </html>
