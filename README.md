@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My frontendmentor.io solution](https://your-solution-url.com)
+- Solution URL: [My frontendmentor.io solution](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY/hub/mobile-first-approach-of-chat-app-illustration-EsZUMo2AP)
 - Live Site URL: [Chat App Illustration - GitHub Pages](https://arbase.github.io/chat-app/)
 
 ## My process
