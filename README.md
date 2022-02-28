@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My frontendmentor.io solution](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY/hub/mobile-first-approach-of-chat-app-illustration-EsZUMo2AP)
-- Live Site URL: [Chat App Illustration - GitHub Pages](https://arbase.github.io/chat-app/)
+- Live Site URL: [Chat App Illustration - GitHub Pages](https://aroyan.github.io/chat-app/)
 
 ## My process
 
@@ -43,9 +43,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Arbase](https://www.arbase.github.io)
-- Frontend Mentor - [@arbase](https://www.frontendmentor.io/profile/arbase)
-- Twitter - [@arbase\_](https://www.twitter.com/arbase_)
+- Website - [Aroyan](https://www.aroyanbakti.com)
+- Frontend Mentor - [@aroyan](https://www.frontendmentor.io/profile/aroyan)
+- Twitter - [@aroyanbaktis](https://www.twitter.com/aroyanbaktis)
 
 ## Acknowledgments
 
